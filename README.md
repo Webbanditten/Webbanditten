@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Webbanditten
-- 👀 I’m interested in Javascript, C#, Self-Hosting, Devops, React, Typescript
-- 🌱 I’m currently learning Svelte
+- 👀 I’m interested in Javascript, C#, Self-Hosting, Devops, React, Typescript, Lingo, Shockave decompilations.
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me - Contact me through Twitter @webbanditten
 
 <!---
