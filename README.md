@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Webbanditten
-- 👀 I’m interested in Typescript, Javascript, C#, self-Hosting, Devops, React, Shockwave Lingo scripting and Shockave decompilations.
+- 👀 I’m interested in Typescript, Javascript, C#, self-Hosting, Devops, React, Shockwave Lingo scripting and Shockwave decompilations.
 - 🌱 I’m currently learning React Native
 - 📫 Reach me - @webbanditten or Discord: JUGH3AD#1212
 
