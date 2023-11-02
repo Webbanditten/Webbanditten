@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Webbanditten
-- 👀 I’m interested in Typescript, Javascript, C#, self-Hosting, Devops, React, Shockwave Lingo scripting and Shockwave decompilations.
-- 🌱 I’m currently learning React Native
-- 📫 Reach me - @webbanditten or Discord: JUGH3AD#1212
+- 👀 I’m interested in Typescript, Javascript, C#, Self-Hosting, Dev-ops, React, Shockwave Lingo scripting and Shockwave decompiling.
+- 🌱 I’m currently advancing my career within React Native
+- 📫 Reach me - @webbanditten or Discord: Webbanditten
 
 <!---
 Webbanditten/Webbanditten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
